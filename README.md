@@ -1,19 +1,9 @@
-# Hello World 👋
-
-### I am Dimeji, a Fullstack Software developer in Ontario, Canada.🇨🇦
 
 
-`languages` : `Javascript` `Typescript` `C++` `Python`
-
-
-`tools` : `React.JS` `Next.JS` `React Native` `Selenium`
-
-
- 🌱 I’m currently learning `AWS`
-
-
-<h1 align="center">Hi 👋, I'm Dimeji Situ</h1>
+<h1 align="center">Hello World 👋, I'm Dimeji Situ</h1>
 <h3 align="center">A full stack developer in 🇨🇦.</h3>
+
+`Strengths` : `Javascript` `Typescript` `C++` `Python` `React.JS` `Next.JS` `React Native` `Selenium`
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimeji-code" alt="dimeji-code" /></a> </p>
 
