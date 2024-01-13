@@ -1,6 +1,9 @@
 # Hello World 👋
 
 ### I am Dimeji, a Fullstack Software developer in Ontario, Canada.🇨🇦
+
+
+`languages` : 'Javascript' `Typescript` `C++` `Python`
 <!--
 **dimeji-code/dimeji-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
