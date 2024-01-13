@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello World 👋, I'm Dimeji Situ</h1>
+<h1 align="center">Hello World 👋, I'm Dimeji </h1>
 <h3 align="center">A full stack developer in 🇨🇦.</h3>
 
 `Strengths` : `Javascript` `Typescript` `C++` `Python` `React.JS` `Next.JS` `React Native` `Selenium`
