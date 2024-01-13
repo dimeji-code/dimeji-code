@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋
 
 ### I am Dimeji, a Fullstack Software developer in Ontario, Canada.🇨🇦
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning AWS
+ 🌱 I’m currently learning AWS
